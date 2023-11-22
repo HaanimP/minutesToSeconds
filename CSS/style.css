@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    margin: 20px;
+    background: #77DD77;
+}
+
+#mts{
+    color: #19543E;
+}
+
+#minutes{
+    background: #90EE90;
+    color: #000;
+}
+
+#convertButton{
+    background: skyblue; 
+}
+
+#result{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
